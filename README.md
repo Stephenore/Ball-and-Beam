@@ -1,0 +1,2 @@
+# Ball-and-Beam
+ This repository contains the MATLAB/Simulink implementation of a Ball and Beam control system. The project was developed as part of a Year 1 Robotics Systems course, exploring the classic non-linear control problem of stabilizing a ball on a beam. The system utilizes a PID controller to adjust the beam's angle based on the position of the ball, as detected by an ultrasonic sensor.
